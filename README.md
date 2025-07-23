@@ -1,24 +1,26 @@
-<!-- Profile Header -->
+<!-- Hero Header -->
 <h1 align="center">Hi 👋, I'm Jagannath Behera</h1>
-<h3 align="center">💻 A passionate Frontend Developer from India</h3>
+<h3 align="center">💻 Frontend Developer | React & React Native Enthusiast from India 🇮🇳</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=React+Developer+%F0%9F%92%BB;Frontend+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+UIs+with+❤️;Learning+React+Native+and+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+%F0%9F%92%BB;Frontend+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Loves+Clean+UI+Design+and+Animations;Currently+learning+Supabase+and+TypeScript" alt="Typing animation" />
 </p>
 
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" width="300" />
+  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" width="300" alt="Coding" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **React & React Native Projects**
-- 🌱 Learning **TypeScript, Supabase, and TailwindCSS**
+- 🌱 Currently learning **TypeScript, Supabase, and TailwindCSS**
 - 💬 Ask me about **React, Firebase, Frontend Architecture**
-- 📫 Reach me: **jagannathbehera3249@gmail.com**
-- 😄 Fun Fact: *“I think I'm funny!”*
+- 📫 How to reach me: **jagannathbehera3249@gmail.com**
+- ⚡ Fun fact: *“I think I'm funny” 😄*
 
 ---
 
@@ -32,10 +34,10 @@
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,firebase,mongodb,mysql,vercel,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,firebase,mongodb,mysql,vercel,git,github,postman" />
 </p>
 
 ---
@@ -43,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaga3249&theme=tokyonight&show_icons=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jaga3249&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaga3249&theme=react&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jaga3249&theme=react&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaga3249&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaga3249&layout=compact&theme=react&hide_border=false" width="48%" />
 </p>
 
 ---
@@ -56,17 +58,19 @@
 ### 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaga3249&label=Profile%20views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Jaga3249&label=Profile%20Views&color=brightgreen&style=flat-square" />
   &nbsp;&nbsp;
-  <img src="https://visitcount.itsvg.in/api?id=Jaga3249&icon=0&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=Jaga3249&icon=5&color=12" />
 </p>
 
 ---
 
-### 🎨 Cool Footer Animation
-
+<!-- Footer Animated Wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Footer animation" />
 </p>
 
-<!-- Proudly crafted by Jagannath Behera 🤘 -->
+<!-- Footer Note -->
+<p align="center">
+  💡 Proudly crafted by <b>Jagannath Behera</b> using ❤️ + React
+</p>
